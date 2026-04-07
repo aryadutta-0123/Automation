@@ -1,0 +1,8 @@
+com\ninjacrm\utilities\Screenshot.class
+com\ninjacrm\pages\CreateCampaignPage.class
+com\ninjacrm\utilities\ExcelLibrary.class
+com\ninjacrm\utilities\BasePage.class
+com\ninjacrm\pages\Login.class
+com\ninjacrm\pages\HomePage.class
+com\ninjacrm\pages\CampaignsPage.class
+com\ninjacrm\utilities\BaseTest.class
